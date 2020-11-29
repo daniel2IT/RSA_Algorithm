@@ -18,9 +18,9 @@
 
 **RSA_Algorithm**
 
-RSA is a public-key cryptosystem that is widely used for secure data transmission.
-It is also one of the oldest. The acronym RSA comes from the surnames of Ron Rivest,
-Adi Shamir, and Leonard Adleman, who publicly described the algorithm in 1977
+RSA (Rivest–Shamir–Adleman) is an algorithm used by modern computers to encrypt and decrypt messages.
+It is an asymmetric cryptographic algorithm. Asymmetric means that there are two different keys.
+This is also called public key cryptography, because one of the keys can be given to anyone.
 
 ![image](https://www.researchgate.net/profile/Hueseyin_Bodur/publication/298298027/figure/fig2/AS:339820552441867@1458030941634/RSA-algorithm-structure.png)
 
