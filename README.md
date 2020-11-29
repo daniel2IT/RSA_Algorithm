@@ -26,6 +26,13 @@ This is also called public key cryptography, because one of the keys can be give
 
 ## How It Looks like: STEP BY STEP
 
+### General
+![image](/img/1.png)
+
+### Encrypted 
+![image](/img/1.png)
+
+### Decrypted 
 ![image](/img/1.png)
 
 
