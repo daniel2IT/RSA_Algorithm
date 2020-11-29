@@ -8,14 +8,15 @@
 
 ### Is Visual Studio good?
 
-*,,Visual Studio" is probably the most serious IDE of the planet & the best software ever made by Microsoft. It does every single thing very nicely what is was made for. It has the best ever Intellisense support than any other IDE what makes your coding experience much more smooth & faster.*
+
+**,,Visual Studio" is probably the most serious IDE of the planet & the best software ever made by Microsoft. It does every single thing very nicely what is was made for. It has the best ever Intellisense support than any other IDE what makes your coding experience much more smooth & faster.**
 
 ### What is Windows Forms App
 
 *Windows Forms is a UI framework for building Windows desktop apps. It provides one of the most productive ways to create desktop apps based on the visual designer provided in Visual Studio. Functionality such as drag-and-drop placement of visual controls makes it easy to build desktop apps.*
 
 
-** RSA_Algorithm **
+**RSA_Algorithm**
 
 RSA is a public-key cryptosystem that is widely used for secure data transmission.
 It is also one of the oldest. The acronym RSA comes from the surnames of Ron Rivest,
