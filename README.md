@@ -30,10 +30,10 @@ This is also called public key cryptography, because one of the keys can be give
 ![image](/img/1.png)
 
 ### Encrypted 
-![image](/img/1.png)
+![image](/img/2.png)
 
 ### Decrypted 
-![image](/img/1.png)
+![image](/img/3.png)
 
 
 ## PARTICIPATED
