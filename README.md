@@ -1,7 +1,5 @@
-**Dynamic Tic-Tac-Toe Game**
+**RSA Algorithm**
 ======
-
-## Windows Forms App With C# / Unit Testing C# With NUnit 
 
 
 ![image](https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png)
